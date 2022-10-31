@@ -1,5 +1,5 @@
 ## Emotion Based Music Recommender with ResNet and OpenCV
-### Implemented with Two Models a Vanilla CNN and ResNet50v2 Pre-Trained Model on FER-2013 Dataset.
+### Implemented with Two Models a Vanilla CNN and a Fine-Tuned ResNet50v2 Pre-Trained Model on FER-2013 Dataset.
 
 This repository is part of LetsGrowMore Data Science internship.
 
