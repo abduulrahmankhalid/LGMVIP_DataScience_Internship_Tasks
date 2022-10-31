@@ -3,7 +3,7 @@
 
 This repository is part of LetsGrowMore Data Science internship.
 
-Project #1 : ML Facial recognition to detect mood and suggest songs accordingly 
+Project #2 : ML Facial recognition to detect mood and suggest songs accordingly 
 
 ### Kaggle Notebook : 
 ### Demo Video : 
