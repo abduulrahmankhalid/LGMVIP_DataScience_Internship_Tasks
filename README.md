@@ -1,9 +1,11 @@
-## Emotion Based Music Recommender with ResNet and OpenCV
-### Implemented with Two Models a Vanilla CNN and a Fine-Tuned ResNet50v2 Pre-Trained Model on FER-2013 Dataset.
+## LGMVIP_DataScience_Tasks
 
-This repository is part of LetsGrowMore Data Science internship.
+### This repository is part of LetsGrowMore Virtual Data Science Internship.
 
-Project #1 : ML Facial recognition to detect mood and suggest songs accordingly 
+  ## Worked on two Machine Learning Projects:
+  - First Project, Applied Machine Learning methods to KKBox's Music Recommendation Challenge to Predict the chances of a user listening to a song.
+  - Applied Deep Learning methods to make an Emotion Based Music Recommender Model.
 
-### Kaggle Notebook : https://www.kaggle.com/code/abduulrahmankhalid/emotion-based-music-recommender-resnet50v2
-### Demo Video : https://www.youtube.com/watch?v=y36tjWDilvk
+## Data Science Internship Letter
+![image](https://github.com/abduulrahmankhalid/LGMVIP_DataScience_Emotion-Based-Music-Recommender/assets/76521677/d9f421dc-d0aa-4a96-af53-0fecfb9de3d4)
+
